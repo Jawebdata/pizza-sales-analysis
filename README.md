@@ -5,7 +5,6 @@
 This project aims to analyze pizza sales data to uncover key business insights such as top-performing pizzas, peak order times, total revenue, and customer preferences.  
 It showcases **SQL skills**, **data analysis mindset**, and **business understanding**, making it perfect for **data analyst portfolios**.
 
----
 
 ## 🧠 Project Overview
 
@@ -17,7 +16,6 @@ The main objective was to answer specific business questions such as:
 - What are the busiest order days and times?
 - What is the total revenue and order volume trend?
 
----
 
 ## 🗂️ Repository Structure
 
@@ -31,7 +29,7 @@ The main objective was to answer specific business questions such as:
 | [`pizza_types.csv`](https://github.com/Jawebdata/pizza-sales-analysis/blob/b7db54df5882eb5aaaf038634c73bdb5893878e9/pizza_types.csv) | Dataset containing pizza names, categories, and ingredients |
 | [`pizzas.csv`](https://github.com/Jawebdata/pizza-sales-analysis/blob/b7db54df5882eb5aaaf038634c73bdb5893878e9/pizzas.csv) | Dataset containing pizza sizes, types, and prices |
 
----
+
 
 ## 🧩 Tools & Technologies Used
 
@@ -40,7 +38,7 @@ The main objective was to answer specific business questions such as:
 - **Microsoft Excel / Google Sheets** (for validation and summaries)
 - **Power BI / Tableau** *(optional for visualization)*
 
----
+
 
 ## ⚙️ Key SQL Concepts Used
 
@@ -51,7 +49,7 @@ The main objective was to answer specific business questions such as:
 - Subqueries & Common Table Expressions (CTEs)
 - String Functions for cleaning and categorization
 
----
+
 
 ## 📈 Analysis Highlights
 
@@ -63,7 +61,7 @@ Some key business insights derived:
 4. **Peak Ordering Hours** and **Days with Highest Orders**.  
 5. **Average Order Value (AOV)** and **Revenue Trends**.
 
----
+
 
 ## 🧾 Sample Questions Solved
 
@@ -75,7 +73,7 @@ Some key business insights derived:
 
 Full question list 👉 [View Here](https://github.com/Jawebdata/pizza-sales-analysis/blob/b7db54df5882eb5aaaf038634c73bdb5893878e9/Questions.txt)
 
----
+
 
 ## 📜 How to Use This Repository
 
@@ -85,7 +83,7 @@ Full question list 👉 [View Here](https://github.com/Jawebdata/pizza-sales-ana
 4. Explore and modify queries for custom insights.
 5. Check the final results in [`Pizza_sales_report_javed.pdf`](https://github.com/Jawebdata/pizza-sales-analysis/blob/b7db54df5882eb5aaaf038634c73bdb5893878e9/Pizza_sales_report_javed.pdf).
 
----
+
 
 ## 🚀 Project Outcome
 
@@ -93,7 +91,7 @@ Full question list 👉 [View Here](https://github.com/Jawebdata/pizza-sales-ana
 ✅ Improved SQL proficiency for real-world analytics tasks  
 ✅ Clear presentation of insights suitable for **business reporting**
 
----
+
 
 ## 📬 Contact
 
